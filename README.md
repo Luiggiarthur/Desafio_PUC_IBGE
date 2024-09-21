@@ -1,1 +1,1 @@
-Dashboard interativo [link](https://github.com/Luiggiarthur/Desafio_PUC_IBGE)
+Dashboard interativo [link](https://public.tableau.com/app/profile/luiggi.oliveira/viz/ibge_17269024413650/IPMnoBrasil)
